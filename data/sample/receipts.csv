@@ -1,0 +1,4 @@
+reference,date,amount,currency,vendor,note
+INV-001,2026-03-03,50000,INR,Atlas Supplies,SYNTHETIC
+INV-002,2026-03-05,28000,INR,Beacon Tools,SYNTHETIC
+INV-003,2026-03-07,18500,INR,Cedar Components,SYNTHETIC

@@ -1,0 +1,12 @@
+{
+  "model": "IsolationForest",
+  "training": "Fitted on demand to active authorized financial rows; no global training dataset",
+  "features": ["amount"],
+  "grouping": "currency",
+  "minimum_rows_per_currency": 8,
+  "n_estimators": 100,
+  "contamination": "auto",
+  "random_state": 42,
+  "purpose": "Unusual amount indicators for investigation",
+  "limitations": "Synthetic demonstration baseline. Not a fraud classifier or calibrated confidence measure. No supervised SHAP model is claimed."
+}
